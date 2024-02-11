@@ -18,9 +18,9 @@ In algorithmic trading, the choice of supervised learning algorithms is critical
 
 ### Results
 
-![SVM Model Actual Returns vs Strategy Returns](Starter_Code/Resources/SVC Chart.png)
+![SVM Model Actual Returns vs Strategy Returns](Starter_Code/Resources/SVC_Chart.png)
 
-![SVM Model Training and Testing Reports](Starter_Code/Resources/SVM Reports.png)
+![SVM Model Training and Testing Reports](Starter_Code/Resources/SVM_Reports.png)
 
 
 ## Logistic Regression:
@@ -42,9 +42,9 @@ In algorithmic trading, the choice of supervised learning algorithms is critical
 
 ### Results
 
-![Logistic Regression Model Actual Returns vs Strategy Returns](Starter_Code/Resources/Logistic Regression Chart.png)
+![Logistic Regression Model Actual Returns vs Strategy Returns](Starter_Code/Resources/Logistic_Regression_Chart.png)
 
-![Logistic Regression Model Training and Testing Reports](Starter_Code/Resources/Logistic Regression Reports.png)
+![Logistic Regression Model Training and Testing Reports](Starter_Code/Resources/Logistic_Regression_Reports.png)
 
 ## AdaBoost Classifier:
 
@@ -64,9 +64,9 @@ In algorithmic trading, the choice of supervised learning algorithms is critical
 
 ### Results
 
-![Adaboost Model Actual Returns vs Strategy Returns](Starter_Code/Resources/Adaboost Chart.png)
+![Adaboost Model Actual Returns vs Strategy Returns](Starter_Code/Resources/Adaboost_Chart.png)
 
-![Adaboost Regression Model Training and Testing Reports](Starter_Code/Resources/Adaboost Reports.png)
+![Adaboost Regression Model Training and Testing Reports](Starter_Code/Resources/Adaboost_Reports.png)
 
 ## Conclusion:
 
